@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "ca4fd8a6-d016-41b7-bc28-a64024cc5240",
+      "name": "Divya",
+      "email": "divyakamireddy0924@gmail.com",
+      "password": "$2b$10$8HL9UnDXclX1f4wBxjGjm.d/33AB2H/247vz4LnwVWWvwE2cWDQbK",
+      "role": "admin",
+      "createdAt": "2026-05-03T07:28:28.127Z"
+    }
+  ],
+  "projects": [],
+  "tasks": [],
+  "members": []
+}

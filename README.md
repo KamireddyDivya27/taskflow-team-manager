@@ -122,7 +122,7 @@ The app will open. You can now sign up and start using it!
    ```
 
 6. Railway will build and deploy automatically
-   You'll get a live URL like: https://taskflow-xxxx.up.railway.app
+   You'll get a live URL like: https://taskflow-team-manager-production-5223.up.railway.app/
 
 7. Paste that URL as your live application link in the submission form
 
